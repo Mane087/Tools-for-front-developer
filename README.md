@@ -55,3 +55,6 @@
 ##  Colores
 - HTML colors: <https://html-color-codes.info/colors-from-image/>
 - Paletadecoloes: <https://paletadecolores.com.mx>
+
+## Extras
+- Transformar a diferentes formatos: <https://transform.tools/>
