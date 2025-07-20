@@ -1,4 +1,4 @@
-# Tools for front-developer
+# Recursos para frontend devs
 
 ## Iconos
 - Yesicon: <https://yesicon.app> 
